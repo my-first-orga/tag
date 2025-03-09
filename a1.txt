@@ -1,3 +1,4 @@
 hii this is venka
 stash ip
 git commit -master
+git pull jio master
